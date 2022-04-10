@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amin\\source\\repos\\HW_5 - Copy\\HW_5\\1.csproj",
+      "projectUniqueName": "C:\\Users\\amin\\Documents\\GitHub\\HW_5\\HW_5\\HW_5\\1.csproj",
       "projectName": "1",
-      "projectPath": "C:\\Users\\amin\\source\\repos\\HW_5 - Copy\\HW_5\\1.csproj",
+      "projectPath": "C:\\Users\\amin\\Documents\\GitHub\\HW_5\\HW_5\\HW_5\\1.csproj",
       "packagesPath": "C:\\Users\\amin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amin\\source\\repos\\HW_5 - Copy\\HW_5\\obj\\",
+      "outputPath": "C:\\Users\\amin\\Documents\\GitHub\\HW_5\\HW_5\\HW_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -29,3 +29,19 @@ C:\Users\amin\source\repos\HW_5 - Copy\ConsoleApp5\obj\Debug\net6.0\refint\3.dll
 C:\Users\amin\source\repos\HW_5 - Copy\ConsoleApp5\obj\Debug\net6.0\3.pdb
 C:\Users\amin\source\repos\HW_5 - Copy\ConsoleApp5\obj\Debug\net6.0\3.genruntimeconfig.cache
 C:\Users\amin\source\repos\HW_5 - Copy\ConsoleApp5\obj\Debug\net6.0\ref\3.dll
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\bin\Debug\net6.0\3.exe
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\bin\Debug\net6.0\3.txt
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\bin\Debug\net6.0\3.deps.json
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\bin\Debug\net6.0\3.runtimeconfig.json
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\bin\Debug\net6.0\3.dll
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\bin\Debug\net6.0\3.pdb
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.AssemblyInfo.cs
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.dll
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\refint\3.dll
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.pdb
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\3.genruntimeconfig.cache
+C:\Users\amin\Documents\GitHub\HW_5\HW_5\ConsoleApp5\obj\Debug\net6.0\ref\3.dll

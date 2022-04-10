@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amin\\source\\repos\\HW_5 - Copy\\ConsoleApp5\\3.csproj",
+      "projectUniqueName": "C:\\Users\\amin\\Documents\\GitHub\\HW_5\\HW_5\\ConsoleApp5\\3.csproj",
       "projectName": "3",
-      "projectPath": "C:\\Users\\amin\\source\\repos\\HW_5 - Copy\\ConsoleApp5\\3.csproj",
+      "projectPath": "C:\\Users\\amin\\Documents\\GitHub\\HW_5\\HW_5\\ConsoleApp5\\3.csproj",
       "packagesPath": "C:\\Users\\amin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amin\\source\\repos\\HW_5 - Copy\\ConsoleApp5\\obj\\",
+      "outputPath": "C:\\Users\\amin\\Documents\\GitHub\\HW_5\\HW_5\\ConsoleApp5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amin\\AppData\\Roaming\\NuGet\\NuGet.Config",

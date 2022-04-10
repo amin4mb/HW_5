@@ -48,7 +48,7 @@ Console.WriteLine("[Value, Count]: " + String.Join("-", ii));
 var j = persons.Where(k => k.Nasionalnumber.ToString().Contains("123")).ToList();
 
 
-var k = persons.Where(p => p.Age > 25).ToList();
+var k = persons.Where(p => p.Age > 25).Select(x=> new {x.ID ,x.Nasionalnumber , x.Addres}).ToList();
 Console.WriteLine("People who are older than 25 years  :");
 
 foreach (var item in k)
